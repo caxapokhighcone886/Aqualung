@@ -206,4 +206,4 @@ Aqualung is offered as a full free version with all features and updates include
 Start your audio journey today with Aqualung — the ultimate free audio player for Windows!
 
 ---
-**Last updated:** 2026-10-23 22:48:47 UTC
+**Last updated:** 2026-10-24 01:18:18 UTC
